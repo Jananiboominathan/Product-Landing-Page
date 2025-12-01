@@ -9,7 +9,7 @@ Email Signup Form — collects user email for updates (FCC-required action link)
 Responsive Design — adapts smoothly to mobile, tablet, and desktop screens.
 
 Clean & Minimal UI — simple layout for better user experience.
-Technologies Used :
+ Technologies Used :
 
 HTML5 for page structure
 
